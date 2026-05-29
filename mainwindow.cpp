@@ -116,7 +116,7 @@ void MainWindow::setupUI()
                      "Соединяй числа, чтобы получить 2048",
                      "#3498DB", SLOT(open2048()));
 
-    createGameButton("👨 СУПЕР МАРИО (упрощенно) 👨",
+    createGameButton("👨 СУПЕР МАРИО 👨",
                      "Упрощенный платформер в стиле Марио",
                      "#9B59B6", SLOT(openMario()));
 
